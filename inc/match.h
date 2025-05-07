@@ -1,6 +1,7 @@
 #include "team.h"
 #include <string>
 
+// Match class that can represent a match between two teams
 class Match
 {
 public:

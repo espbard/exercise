@@ -2,6 +2,8 @@
 #include <cassert>
 #include <iostream>
 
+// Confirm that initializing a match works as expected
+// and that it has a match ID and initial score of 0 for both teams.
 void test_init_match()
 {
     Match match = Match(1);

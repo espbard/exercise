@@ -2,6 +2,8 @@
 #include <cassert>
 #include <iostream>
 
+// Confirm that initializing a scoreboard works as expected
+// and that it can add matches and retrieve scores correctly.
 void test_init_scoreboard()
 {
     Scoreboard scoreboard;

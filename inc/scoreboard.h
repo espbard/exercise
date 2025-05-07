@@ -1,6 +1,7 @@
 #include "match.h"
 #include <vector>
 
+// Scoreboard class to manage multiple matches and their scores
 class Scoreboard
 {
 public:
