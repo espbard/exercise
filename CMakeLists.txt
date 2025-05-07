@@ -7,3 +7,4 @@ add_executable(sportradar_exercise main.cpp)
 include(CTest)
 enable_testing()
 
+add_subdirectory(tests)
